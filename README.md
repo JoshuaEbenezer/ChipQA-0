@@ -1,6 +1,6 @@
 # CHIPQA-0: No-Reference Video Quality Assessment using Space-Time Chips
 
-ChipQA-0 is a **prototype** version of ChipQA.
+ChipQA-0 is a **prototype** version of ChipQA. You can read ChipQA-0 here: https://ieeexplore.ieee.org/abstract/document/9287151.
 
 This repository contains code for ChipQA-0. Code for ChipQA will be released in September 2022.
 
@@ -40,4 +40,5 @@ to evaluate. `input_file` must be the path where the zipped features and scores 
 `all_srocc.m` can then be used to find the SROCC and LCC.
 
 If you use the code here, please cite the following paper:
+
 J. P. Ebenezer, Z. Shang, Y. Wu, H. Wei and A. C. Bovik, "No-Reference Video Quality Assessment Using Space-Time Chips," 2020 IEEE 22nd International Workshop on Multimedia Signal Processing (MMSP), 2020, pp. 1-6, doi: 10.1109/MMSP48831.2020.9287151.
