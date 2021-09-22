@@ -13,7 +13,7 @@ See requirements.txt
 To extract features, run
 ```
 
-python3 chipqa.py path/to/input_folder path/to/output_folder
+python3 chipqa0.py path/to/input_folder path/to/output_folder
 
 ```
 `input_folder` must contain the videos from which chipqa features will be extracted.
