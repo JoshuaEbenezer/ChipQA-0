@@ -2,8 +2,7 @@
 
 ChipQA-0 is a **prototype** version of ChipQA. You can read ChipQA-0 here: https://ieeexplore.ieee.org/abstract/document/9287151.
 
-This repository contains code for ChipQA-0. Code for ChipQA will be released in September 2022.
-
+This repository contains code for ChipQA-0. Code for ChipQA is available here: https://github.com/JoshuaEbenezer/ChipQA.
 ## Requirements
 
 See requirements.txt
